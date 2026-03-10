@@ -1,4 +1,4 @@
-# 🚀 Parallel Web Scraper with Selenium + Trafilatura
+# Parallel Web Scraper with Selenium + Trafilatura
 
 A **high-performance parallel web crawler** built with **Python, Selenium, and Trafilatura** that extracts **clean, structured text from websites**.
 It is designed for **LLM dataset creation, knowledge base building, and large-scale content extraction**.
