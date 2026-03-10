@@ -262,7 +262,7 @@ Use responsibly.
 # 🧑‍💻 Author
 
 **Virendra Badgotya**
-AI/ML Enthusiast | Python Developer
+AI/ML Developer
 
 GitHub:
 https://github.com/vir123-devf
